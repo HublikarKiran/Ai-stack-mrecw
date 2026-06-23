@@ -1,0 +1,97 @@
+#  Use only below mentioned Python verisons- You can Install any one of them 
+# Link to download - python.org/ftp/python/3.10.0/
+#  or - python.org/ftp/python/3.11.0/
+
+# Python 3.10 Environment
+
+
+pip install numpy
+pip install pandas
+pip install scipy
+pip install matplotlib
+pip install seaborn
+pip install plotly
+pip install statsmodels
+
+# for ML
+pip install scikit-learn
+pip install xgboost
+pip install lightgbm
+pip install catboost
+
+# For DL
+pip install tensorflow
+pip install keras
+pip install torch
+pip install torchvision
+pip install torchaudio
+
+# for NLP
+pip install nltk
+pip install spacy
+pip install gensim
+pip install transformers
+pip install sentence-transformers
+
+# for CV
+pip install opencv-python
+pip install pillow
+pip install albumentations
+
+
+# Python 3.11 Environment
+
+pip install numpy
+pip install pandas
+pip install scipy
+pip install matplotlib
+pip install seaborn
+pip install plotly
+
+
+pip install scikit-learn
+pip install xgboost
+pip install lightgbm
+pip install catboost
+
+
+pip install tensorflow
+pip install keras
+pip install torch
+pip install torchvision
+pip install torchaudio
+
+# for NLP and LLM
+pip install nltk
+pip install spacy
+pip install transformers
+pip install sentence-transformers
+pip install datasets
+pip install accelerate
+pip install peft
+
+
+# CV
+pip install opencv-python
+pip install pillow
+pip install albumentations
+
+
+# for Deployment
+pip install flask
+pip install fastapi
+pip install uvicorn
+pip install streamlit
+pip install gradio
+
+
+
+# Database
+pip install sqlalchemy
+pip install psycopg2-binary
+pip install pymongo
+
+# For MLops
+pip install mlflow
+pip install dvc
+pip install evidently
